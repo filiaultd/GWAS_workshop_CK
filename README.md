@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/picla/GWAS_workshop/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](filiaultd/GWAS_workshop_CK.git/master)
 # GWAS_workshop
 How to GWAS
 
@@ -18,12 +18,12 @@ Download environment.yml
 conda env create -f environment.yml
 ```
 
-To activate this environment
+To activate this environment (do this in each new bash window)
 
 ```bash
 conda activate limix
-
+```
 
 
 Click [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment) for more information on conda environments.
-When conda and/or jupyter is not installed locally, we advice to install [anaconda](https://www.anaconda.com/distribution/).
+When conda and/or jupyter are not installed locally, we advise installing [anaconda](https://www.anaconda.com/distribution/).
