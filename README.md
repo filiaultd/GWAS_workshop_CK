@@ -12,7 +12,7 @@ To use the notebooks locally, download the notebook(s) of choice and from that d
 jupyter notebook
 ```
 
-To make sure all required packages are installed, it's practial to create the conda environment locally.
+To make sure all required packages are installed, it's practical to create the conda environment locally.
 Download environment.yml
 
 ```bash
